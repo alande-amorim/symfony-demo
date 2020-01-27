@@ -80,6 +80,14 @@
                 <source>title.post_list</source>
                 <target>Lista de Posts</target>
             </trans-unit>
+            <trans-unit id="title.post_report">
+                <source>title.post_report</source>
+                <target>Relatório de Posts</target>
+            </trans-unit>
+            <trans-unit id="title.post_report_summary">
+                <source>title.post_report_summary</source>
+                <target>Sumário</target>
+            </trans-unit>
             <trans-unit id="title.edit_post">
                 <source>title.edit_post</source>
                 <target>Editar o post #%id%</target>
@@ -136,6 +144,10 @@
             <trans-unit id="action.create_post">
                 <source>action.create_post</source>
                 <target>Criar um novo post</target>
+            </trans-unit>
+            <trans-unit id="action.create_report">
+                <source>action.create_report</source>
+                <target>Salvar estado</target>
             </trans-unit>
             <trans-unit id="label.create_post">
                 <source>label.create_post</source>
@@ -223,6 +235,10 @@
                 <source>menu.post_list</source>
                 <target>Lista de posts</target>
             </trans-unit>
+            <trans-unit id="menu.post_report">
+                <source>menu.post_report</source>
+                <target>Relatório de posts</target>
+            </trans-unit>
             <trans-unit id="menu.back_to_blog">
                 <source>menu.back_to_blog</source>
                 <target>Voltar para o blog</target>
@@ -260,9 +276,17 @@
                 <source>post.no_posts_found</source>
                 <target>Nenhum post encontrado.</target>
             </trans-unit>
+            <trans-unit id="post.no_reports_found">
+                <source>report.no_reports_found</source>
+                <target>Nenhum relatório encontrado.</target>
+            </trans-unit>
             <trans-unit id="post.created_successfully">
                 <source>post.created_successfully</source>
                 <target>Post criado com sucesso!</target>
+            </trans-unit>
+            <trans-unit id="report.created_successfully">
+                <source>report.created_successfully</source>
+                <target>Relatório criado com sucesso!</target>
             </trans-unit>
             <trans-unit id="post.updated_successfully">
                 <source>post.updated_successfully</source>
