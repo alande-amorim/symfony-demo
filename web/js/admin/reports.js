@@ -5,7 +5,6 @@ jQuery(() => {
             url: refresh_url,
             dataType: 'json',
             success: (resp) => {
-                console.log(resp);
                 if(!!resp.posts) {
                     $('#num_posts').html(resp.posts);
                 }

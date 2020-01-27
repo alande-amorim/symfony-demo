@@ -86,7 +86,7 @@
             </trans-unit>
             <trans-unit id="title.post_report_summary">
                 <source>title.post_report_summary</source>
-                <target>Sumário</target>
+                <target>Resumo</target>
             </trans-unit>
             <trans-unit id="title.edit_post">
                 <source>title.edit_post</source>
