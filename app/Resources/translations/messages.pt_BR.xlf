@@ -88,6 +88,14 @@
                 <source>title.post_report_summary</source>
                 <target>Resumo</target>
             </trans-unit>
+            <trans-unit id="label.posts_summary">
+                <source>label.posts_summary</source>
+                <target>N. Posts</target>
+            </trans-unit>
+            <trans-unit id="label.comments_summary">
+                <source>label.comments_summary</source>
+                <target>N. Comentários</target>
+            </trans-unit>
             <trans-unit id="title.edit_post">
                 <source>title.edit_post</source>
                 <target>Editar o post #%id%</target>
